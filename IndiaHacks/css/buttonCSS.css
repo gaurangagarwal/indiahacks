@@ -1,0 +1,20 @@
+/* Ripple Effect
+-------------------------------*/
+.ripple {
+  position: relative;
+  overflow: hidden;
+}
+.ripple span {
+  position: absolute;
+  display: block;
+	border-radius: 100%;
+	width: 0;
+	height: 0;
+}
+/* Button #1 */
+button {
+  background-color: #ffca3b;
+}
+button span {
+  background-color: #ffca3b;
+}

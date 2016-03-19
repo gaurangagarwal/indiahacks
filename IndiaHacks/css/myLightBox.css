@@ -1,0 +1,126 @@
+body {
+    padding: 0px;
+    margin: 0px;
+  }
+  .modal-container {
+    /*border:2px solid black;*/
+    width: 65%;
+    position: fixed;
+    left: 50%;
+    top: 7%;
+    height: 80%;
+    border-radius: 10px;
+    padding-bottom: 30px;
+    background-color: white;
+    transform:translate(-50%,0);
+    -webkit-transform:translate(-50%,0);
+    -ms-transform:translate(-50%,0);
+  }
+  .modal {
+    content: "";
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0px;
+    display: none;
+    background-color: rgba(0,0, 0, 0.8);
+  }
+  #closeBtn, #closeBtnApp {
+    margin-top:2%;
+    float:right; 
+    margin-right:3%; 
+    width:15%;
+    color:black; 
+    text-align: center;
+    cursor: pointer;
+    background-color:#ffeb3b;
+  }
+  .reviewHeadTd {
+    width: 20%;
+    border-radius: 10px;
+    height: 13%;
+  }
+  .reviewHeadInputDont ,.reviewHeadInputDo {
+    width: 100%;
+    height: 100%;
+    border:0px; 
+    border-radius: 10px;
+    font-family: 'Product Sans', Arial, sans-serif;
+    padding: 1%;
+    font-size: 100%;
+    vertical-align: middle;
+  }
+  .reviewDescInputDo, .reviewDescInputDont {
+    border:0px; 
+    border-radius: 10px;
+    font-family: 'Product Sans', Arial, sans-serif;
+    padding: 2%;
+    height:100%; 
+    width:100%;
+  }
+
+
+  .reviewHeadInputDo {
+    box-shadow:inset 0 0 3px 3px #888;
+    padding: 1%;
+    /*background-color: #03a9f4;*/
+  
+  }
+  .reviewDescInputDo {
+    box-shadow:inset 0 0 3px 3px #888;
+    /*color: #727272;*/
+    /*background-color: #03a9f4;*/
+  }
+  .reviewHeadInputDont {
+    box-shadow:inset 0 0 3px 3px #0288d1;    
+    color: #fff;
+    background-color: #03a9f4;
+  }
+  .reviewDescInputDont {
+    box-shadow:inset 0 0 3px 3px #0288d1;
+    color: #fff;
+    background-color: #03a9f4;
+  }
+
+  .reviewDescTd {
+    width: 70%;
+  }
+
+  .donDontLightBoxHead{
+    font-family:'Product Sans';
+    font-size: 180%;
+    color:black;
+  }
+
+  .modalApp-container {
+    border:2px solid black;
+    width: 60%;
+    position: fixed;
+    left: 50%;
+    top: 13%;
+    height: 60%;
+    border-radius: 10px;
+    padding-bottom: 30px;
+    background-color: white;
+    transform:translate(-50%,0);
+    -webkit-transform:translate(-50%,0);
+    -ms-transform:translate(-50%,0);
+  }
+  .modalApp {
+    content: "";
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0px;
+    display: none;
+    background-color: rgba(0,0, 0, 0.8);
+  }
+  
+  .appLink {
+    width: 100%;
+    height: 80%;
+    vertical-align: middle;  
+  }
+  #commSubmitBtn{
+
+  }

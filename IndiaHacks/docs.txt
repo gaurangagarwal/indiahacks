@@ -1,0 +1,47 @@
+Voyagers
+
+What is Voyagers ?
+Voyagers provides you a platform which can help travellers choose spots to visit, mainly the things they should DO in and around the location and things they should NOT DO at that place of visit.
+     
+Examples:
+These could be some do's or dont's of a locations.
+The market on the back side of location is very cheap and has good products. 
+A place is very very prone to robbery/ pick pocketing. 
+This market is famous of a product and a shopkeeper is there in this business from years so buy from that shop.
+Travel with Student ID/ Government ID/ Teacher's ID card to avail more discount.
+Type of clothes to be wore , like only wear nylon clothes while visiting Water park of Essel World, Mumbai, India. 
+and many more....
+
+Why voyagers ?
+Many sites provide you reviews about a place,and  the reviews are like "Nice place" , "Must Visit" but no site provides/ writes the things to be done in and specially around the place. We should be well versed with some points before hand so that our experience of travel.
+
+Features of Voyagers:
+1. Main feature is do and dont's of  place.
+2  For e.g. to are planning to visit Charminar  Hyderabad, Telangana so you just need to sign in and click on button "Request others" , this will send a request to all other people already signned into our site residing in Telangana to write something about charminar (because it is most prabable that people in Telangana would have already visited Charminar).  
+3. Street View of the location.
+4. Shows a map from the 
+
+How voyagers work?
+This works in the same sense like Quora or StakeOverflow. People sign up and write comments of a place. By signing up the also get the feature to request others to write about a place.
+
+Advantages of Voyagers:
+1. Enhanced Experience: You will not miss any beauty / important spots of a particular location.   
+2. Packing : May help you to recommond things that you should carry for visiting a location.
+3. Warning : You will some warning for a location.
+4. May help you save bucks.  
+
+How to use Voyagers?
+You can visit voaygers before packing your stuff, or before getting out of hotel check the points to visited from your itineary and see them on Voyagers, but mainly we think you could use it just beore visiting a place i.e. while travelling to a specific location visit our site and see key points about it.  
+
+Comments sections here refers to do's and dont's of a place.
+
+Next step:
+We can add upvote and downvote buttons for each comment.
+Adding images , automatic or manual checking of comments added to a place. 
+
+Earning:
+We can earn with this idea using ads related to travelling e.g.travel booking sites (ibibo, makemytrip, etc) and if any one recommends a product you should carry to a location we can provide flipkart/ online shopping site link of that product.
+
+Note: 
+People signned in to our website could write any comments about a particular place so in the earlier part of this website we need to do manual checking of the comments and later on we could distribute badges to trust worthy people/ hire some for checking of the comments sections.
+ 
